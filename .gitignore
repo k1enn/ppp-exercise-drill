@@ -4,6 +4,10 @@
 
 # .sln, .vcxproj, .vcxproj.filters are required for building GUI programs
 
+std.o
+*.o
+std.gcm
+gcm.cache/
 # VSCode
 .vscode/
 

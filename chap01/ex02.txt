@@ -1,0 +1,22 @@
+Go to the bathroom instructions
+
+Example: You are standing next to the stair. House layout just have stair, corridor on the left of the stair
+go that direction would lead to bathroom
+
+1. Look left, find stair. 
+    If found -> go to step 3. 
+    Else -> Return by look right 
+2. Look right, find stair. 
+    If found -> go to step 3. 
+    Else -> Return by look left 
+3. Step on it, use left and right foot frequently. If right foot placed 
+    -> start left foot. Repeat until flat floor
+4. Look left, find corridor. 
+    If found -> go to step 6. 
+    Else -> Return by look right 
+5. Look right, find corridor. 
+    If found -> go to step 6. 
+    Else -> Return by look left 
+6. Turn left, go staight while finding bathroom. 
+    If see, stop. Complete
+    Else. return 0
