@@ -1,8 +1,6 @@
-import std;
-using namespace std;
+#include "PPPheaders.h"
 
-int main()          // read name and age
-{
+int main() {
     cout << "Please enter your first name and age\n";
     string first_name = "???";
     int age = -1;
