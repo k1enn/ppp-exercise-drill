@@ -11,5 +11,5 @@ int main()
     std::string first_name = "";
     std::cout << "Enter the name of the person you want to write to: \n";
     std::cin >> first_name;
-    std::cout << "\tDear " << first_name << ",\n How are you? I am fine. I miss you\n " ;
+    std::cout << "\tDear " << first_name << ",\n How are you? I am fine. I miss you\n Like HieuNghi miss his ex" ;
 }
